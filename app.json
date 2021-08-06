@@ -1,0 +1,12 @@
+{
+  "name": "food_app",
+  "displayName": "food_app",
+  "expo": {
+    "name": "food_app",
+    "slug": "food_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
